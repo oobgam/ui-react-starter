@@ -10,7 +10,9 @@
   "author": "Intelimina",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer-core": "^6.0.1",
+    "autoprefixer": "^6.0.3",
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
     "css-loader": "^0.19.0",
     "expose-loader": "^0.7.0",
     "extract-text-webpack-plugin": "^0.8.2",
